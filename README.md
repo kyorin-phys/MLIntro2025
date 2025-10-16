@@ -14,7 +14,7 @@
 * [グラフ、画像の表示](2/2.ipynb)
 * numpy (配列、数値計算)
 * matplotlib (グラフ)
-* [pandas (表形式データ)), seaborn(統計用グラフ)](2/2a.ipynb)
+* [pandas (表形式データ), seaborn(統計用グラフ)](2/2a.ipynb)
 * scikit-learn(データ分割) → 次回
 * opencv (画像、動画) → デモだけ後日追加
 
@@ -31,4 +31,5 @@
 * [MNIST](4/mnist.ipynb) (参考)手書き文字分類のサンプルコード
 
 [参考サイト](./sites.md)
+
 
